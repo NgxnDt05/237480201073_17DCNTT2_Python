@@ -6,4 +6,4 @@ c = (n // 10) % 10
 d = n % 10
 
 tong = a + b + c + d
-print("Tổng các chữ số của", n, "là:", tong)
+print("Tổng các chữ số của",n,"là: ", tong)

@@ -8,6 +8,5 @@ for i in range(1, n):
         tong_chan += i
     else:
         tong_le += i
-
 print("Tổng các số lẻ nhỏ hơn", n, "là:", tong_le)
 print("Tổng các số chẵn nhỏ hơn", n, "là:", tong_chan)
